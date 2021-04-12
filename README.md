@@ -1,4 +1,5 @@
-### Hi there 👋
+### Martin Palazzo
+#### PhD Studen in Machine Learning
 
 <!--
 **martinepalazzo/martinepalazzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
