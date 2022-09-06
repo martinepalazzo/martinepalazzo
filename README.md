@@ -4,7 +4,7 @@ Previously I developed a thesis named [Dimension reduction in biomedical tumor p
 
 Previously I have been studying community detection in dynamic spatio-temporal graphs during the Optimization and Security of Complex systems master degree at Universite de Technologie de Troyes. 
 
-During my industrial engineer degree in domains such as automotive, massive consumption, internet, energy and music.
+During my industrial engineer degree I have worked in domains such as automotive, massive consumption, internet, energy and music.
 
 You can contact me by twitter @boardsofdata.
 
